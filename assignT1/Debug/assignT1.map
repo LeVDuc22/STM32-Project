@@ -1,0 +1,1073 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                              ./src/main.o (__aeabi_f2d)
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+                              ./src/main.o (__aeabi_i2f)
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sysgettod.o)
+                              ./src/main.o (gettimeofday)
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-impure.o)
+                              /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sysgettod.o) (_impure_ptr)
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-gettimeofdayr.o)
+                              /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sysgettod.o) (_gettimeofday_r)
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reent.o)
+                              /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-gettimeofdayr.o) (errno)
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-freer.o)
+                              /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reent.o) (_free_r)
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o)
+                              /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-freer.o) (__malloc_free_list)
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mlock.o)
+                              /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-freer.o) (__malloc_lock)
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+                              /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o) (_sbrk_r)
+/home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+                              /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mlock.o) (__retarget_lock_acquire_recursive)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_initialize_hardware.o
+ .text          0x00000000        0x0 ./src/_initialize_hardware.o
+ .data          0x00000000        0x0 ./src/_initialize_hardware.o
+ .bss           0x00000000        0x0 ./src/_initialize_hardware.o
+ .text.SystemClock_Config
+                0x00000000       0x9c ./src/_initialize_hardware.o
+ .text.__initialize_hardware
+                0x00000000       0x10 ./src/_initialize_hardware.o
+ .debug_info    0x00000000      0x510 ./src/_initialize_hardware.o
+ .debug_abbrev  0x00000000      0x1dc ./src/_initialize_hardware.o
+ .debug_aranges
+                0x00000000       0x28 ./src/_initialize_hardware.o
+ .debug_rnglists
+                0x00000000       0x1a ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x474 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0xaba ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x31 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x28 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x34e ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x35 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x50 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0xe66 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000     0x93f9 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x43 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x289 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000     0x347f ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x22 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x75 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x24 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x94 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x3c ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x34 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x16 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x57 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x9e ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x369 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x10b ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x10 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x16 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x43 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x34 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x10 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x58 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x1de ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x16 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x16 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x170 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x57 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x964 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x9e1 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x11e ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x13e ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x27 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x287 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x5f ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x23a ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x391 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x16f ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0xf9 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x36e ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x23 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0xe6 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0xa1 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x3c ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x1f ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x1cd ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0xcd6 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x13a ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x21e ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x2e ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x543 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x88 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0xd5 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x183 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x1a7 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0xa5 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x18b ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x24 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x35 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x79 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x11e ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x7f ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x89 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x7e ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x31a ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x409 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0xe4 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x48d ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x22b ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x202 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x6d9 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x5b ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x14d ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x287 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x225 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x1b5 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x2db ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x89 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x1df ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x115 ./src/_initialize_hardware.o
+ .debug_macro   0x00000000       0x6e ./src/_initialize_hardware.o
+ .debug_macro   0x00000000      0x125 ./src/_initialize_hardware.o
+ .debug_line    0x00000000      0xaa9 ./src/_initialize_hardware.o
+ .debug_str     0x00000000    0x96a2c ./src/_initialize_hardware.o
+ .comment       0x00000000       0x3a ./src/_initialize_hardware.o
+ .debug_frame   0x00000000       0x48 ./src/_initialize_hardware.o
+ .ARM.attributes
+                0x00000000       0x2e ./src/_initialize_hardware.o
+ .group         0x00000000        0xc ./src/_write.o
+ .text          0x00000000        0x0 ./src/_write.o
+ .data          0x00000000        0x0 ./src/_write.o
+ .bss           0x00000000        0x0 ./src/_write.o
+ .debug_info    0x00000000       0x22 ./src/_write.o
+ .debug_abbrev  0x00000000       0x12 ./src/_write.o
+ .debug_aranges
+                0x00000000       0x18 ./src/_write.o
+ .debug_macro   0x00000000       0x11 ./src/_write.o
+ .debug_macro   0x00000000      0xaba ./src/_write.o
+ .debug_line    0x00000000       0x30 ./src/_write.o
+ .debug_str     0x00000000     0x2e07 ./src/_write.o
+ .comment       0x00000000       0x3a ./src/_write.o
+ .ARM.attributes
+                0x00000000       0x2e ./src/_write.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text._Z10read_dht11v
+                0x00000000       0x60 ./src/main.o
+ .rodata.main.str1.4
+                0x00000000       0x2d ./src/main.o
+ .text.main     0x00000000       0x68 ./src/main.o
+ .bss.temp      0x00000000        0x4 ./src/main.o
+ .bss.hi2c1     0x00000000       0x54 ./src/main.o
+ .debug_info    0x00000000     0x11c5 ./src/main.o
+ .debug_abbrev  0x00000000      0x318 ./src/main.o
+ .debug_loclists
+                0x00000000       0x5a ./src/main.o
+ .debug_aranges
+                0x00000000       0x28 ./src/main.o
+ .debug_rnglists
+                0x00000000       0x19 ./src/main.o
+ .debug_macro   0x00000000      0x5ea ./src/main.o
+ .debug_macro   0x00000000      0xb5c ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x75 ./src/main.o
+ .debug_macro   0x00000000       0x24 ./src/main.o
+ .debug_macro   0x00000000       0x94 ./src/main.o
+ .debug_macro   0x00000000       0x3c ./src/main.o
+ .debug_macro   0x00000000       0x34 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x57 ./src/main.o
+ .debug_macro   0x00000000       0x9e ./src/main.o
+ .debug_macro   0x00000000      0x38c ./src/main.o
+ .debug_macro   0x00000000      0x112 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x43 ./src/main.o
+ .debug_macro   0x00000000       0x34 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x58 ./src/main.o
+ .debug_macro   0x00000000      0x1de ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000      0x138 ./src/main.o
+ .debug_macro   0x00000000      0x1d6 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000      0x3d8 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x35 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x29 ./src/main.o
+ .debug_macro   0x00000000       0x1c ./src/main.o
+ .debug_macro   0x00000000       0xde ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x6a ./src/main.o
+ .debug_macro   0x00000000       0x1c ./src/main.o
+ .debug_macro   0x00000000       0x52 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x52 ./src/main.o
+ .debug_macro   0x00000000       0xc1 ./src/main.o
+ .debug_macro   0x00000000       0x1c ./src/main.o
+ .debug_macro   0x00000000       0x3d ./src/main.o
+ .debug_macro   0x00000000      0x51a ./src/main.o
+ .debug_macro   0x00000000       0xce ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x35 ./src/main.o
+ .debug_macro   0x00000000      0x289 ./src/main.o
+ .debug_macro   0x00000000       0x31 ./src/main.o
+ .debug_macro   0x00000000       0x28 ./src/main.o
+ .debug_macro   0x00000000      0x34e ./src/main.o
+ .debug_macro   0x00000000       0x35 ./src/main.o
+ .debug_macro   0x00000000       0x50 ./src/main.o
+ .debug_macro   0x00000000      0xe66 ./src/main.o
+ .debug_macro   0x00000000     0x93f9 ./src/main.o
+ .debug_macro   0x00000000       0x43 ./src/main.o
+ .debug_macro   0x00000000     0x347f ./src/main.o
+ .debug_macro   0x00000000       0x57 ./src/main.o
+ .debug_macro   0x00000000      0x964 ./src/main.o
+ .debug_macro   0x00000000      0x9e1 ./src/main.o
+ .debug_macro   0x00000000      0x11e ./src/main.o
+ .debug_macro   0x00000000      0x13e ./src/main.o
+ .debug_macro   0x00000000       0x27 ./src/main.o
+ .debug_macro   0x00000000      0x287 ./src/main.o
+ .debug_macro   0x00000000       0x5f ./src/main.o
+ .debug_macro   0x00000000      0x23a ./src/main.o
+ .debug_macro   0x00000000      0x391 ./src/main.o
+ .debug_macro   0x00000000      0x16f ./src/main.o
+ .debug_macro   0x00000000       0xf9 ./src/main.o
+ .debug_macro   0x00000000      0x36e ./src/main.o
+ .debug_macro   0x00000000       0x23 ./src/main.o
+ .debug_macro   0x00000000       0xe6 ./src/main.o
+ .debug_macro   0x00000000       0xa1 ./src/main.o
+ .debug_macro   0x00000000       0x3c ./src/main.o
+ .debug_macro   0x00000000       0x1f ./src/main.o
+ .debug_macro   0x00000000      0x1cd ./src/main.o
+ .debug_macro   0x00000000      0xcd6 ./src/main.o
+ .debug_macro   0x00000000      0x13a ./src/main.o
+ .debug_macro   0x00000000      0x21e ./src/main.o
+ .debug_macro   0x00000000       0x2e ./src/main.o
+ .debug_macro   0x00000000      0x543 ./src/main.o
+ .debug_macro   0x00000000       0x88 ./src/main.o
+ .debug_macro   0x00000000       0xd5 ./src/main.o
+ .debug_macro   0x00000000      0x183 ./src/main.o
+ .debug_macro   0x00000000      0x1a7 ./src/main.o
+ .debug_macro   0x00000000       0xa5 ./src/main.o
+ .debug_macro   0x00000000      0x18b ./src/main.o
+ .debug_macro   0x00000000       0x24 ./src/main.o
+ .debug_macro   0x00000000       0x35 ./src/main.o
+ .debug_macro   0x00000000       0x79 ./src/main.o
+ .debug_macro   0x00000000      0x11e ./src/main.o
+ .debug_macro   0x00000000       0x7f ./src/main.o
+ .debug_macro   0x00000000       0x89 ./src/main.o
+ .debug_macro   0x00000000       0x7e ./src/main.o
+ .debug_macro   0x00000000      0x31a ./src/main.o
+ .debug_macro   0x00000000      0x409 ./src/main.o
+ .debug_macro   0x00000000       0xe4 ./src/main.o
+ .debug_macro   0x00000000      0x48d ./src/main.o
+ .debug_macro   0x00000000      0x22b ./src/main.o
+ .debug_macro   0x00000000      0x202 ./src/main.o
+ .debug_macro   0x00000000      0x6d9 ./src/main.o
+ .debug_macro   0x00000000       0x5b ./src/main.o
+ .debug_macro   0x00000000      0x14d ./src/main.o
+ .debug_macro   0x00000000      0x287 ./src/main.o
+ .debug_macro   0x00000000      0x225 ./src/main.o
+ .debug_macro   0x00000000      0x1b5 ./src/main.o
+ .debug_macro   0x00000000      0x2db ./src/main.o
+ .debug_macro   0x00000000       0x89 ./src/main.o
+ .debug_macro   0x00000000      0x1df ./src/main.o
+ .debug_macro   0x00000000      0x115 ./src/main.o
+ .debug_macro   0x00000000       0x6e ./src/main.o
+ .debug_macro   0x00000000      0x125 ./src/main.o
+ .debug_line    0x00000000      0xda5 ./src/main.o
+ .debug_str     0x00000000    0x9afb3 ./src/main.o
+ .comment       0x00000000       0x3a ./src/main.o
+ .debug_frame   0x00000000       0x4c ./src/main.o
+ .ARM.attributes
+                0x00000000       0x2e ./src/main.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .group         0x00000000        0xc ./src/stm32f4xx_hal_msp.o
+ .text          0x00000000        0x0 ./src/stm32f4xx_hal_msp.o
+ .data          0x00000000        0x0 ./src/stm32f4xx_hal_msp.o
+ .bss           0x00000000        0x0 ./src/stm32f4xx_hal_msp.o
+ .text.HAL_MspInit
+                0x00000000        0x2 ./src/stm32f4xx_hal_msp.o
+ .text.HAL_MspDeInit
+                0x00000000        0x2 ./src/stm32f4xx_hal_msp.o
+ .text.HAL_PPP_MspInit
+                0x00000000        0x2 ./src/stm32f4xx_hal_msp.o
+ .text.HAL_PPP_MspDeInit
+                0x00000000        0x2 ./src/stm32f4xx_hal_msp.o
+ .debug_info    0x00000000       0xbf ./src/stm32f4xx_hal_msp.o
+ .debug_abbrev  0x00000000       0x47 ./src/stm32f4xx_hal_msp.o
+ .debug_aranges
+                0x00000000       0x38 ./src/stm32f4xx_hal_msp.o
+ .debug_rnglists
+                0x00000000       0x25 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x474 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0xaba ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x289 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x31 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x28 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x34e ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x35 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x50 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0xe66 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000     0x93f9 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x43 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000     0x347f ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x22 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x75 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x24 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x94 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x3c ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x34 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x16 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x57 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x9e ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x369 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x10b ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x10 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x16 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x43 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x34 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x10 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x58 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x1de ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x16 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x16 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x170 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x57 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x964 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x9e1 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x11e ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x13e ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x27 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x287 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x5f ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x23a ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x391 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x16f ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0xf9 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x36e ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x23 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0xe6 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0xa1 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x3c ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x1f ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x1cd ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0xcd6 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x13a ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x21e ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x2e ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x543 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x88 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0xd5 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x183 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x1a7 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0xa5 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x18b ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x24 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x35 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x79 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x11e ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x7f ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x89 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x7e ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x31a ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x409 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0xe4 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x48d ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x22b ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x202 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x6d9 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x5b ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x14d ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x287 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x225 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x1b5 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x2db ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x89 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x1df ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x115 ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000       0x6e ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x00000000      0x125 ./src/stm32f4xx_hal_msp.o
+ .debug_line    0x00000000      0xa39 ./src/stm32f4xx_hal_msp.o
+ .debug_str     0x00000000    0x9674e ./src/stm32f4xx_hal_msp.o
+ .comment       0x00000000       0x3a ./src/stm32f4xx_hal_msp.o
+ .debug_frame   0x00000000       0x50 ./src/stm32f4xx_hal_msp.o
+ .ARM.attributes
+                0x00000000       0x2e ./src/stm32f4xx_hal_msp.o
+ .text          0x00000000      0x378 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x1e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x21c /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .text          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sysgettod.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sysgettod.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sysgettod.o)
+ .text.gettimeofday
+                0x00000000       0x10 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sysgettod.o)
+ .comment       0x00000000       0x3a /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sysgettod.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sysgettod.o)
+ .text          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-impure.o)
+ .comment       0x00000000       0x3a /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-gettimeofdayr.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-gettimeofdayr.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-gettimeofdayr.o)
+ .text._gettimeofday_r
+                0x00000000       0x24 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-gettimeofdayr.o)
+ .comment       0x00000000       0x3a /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-gettimeofdayr.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-gettimeofdayr.o)
+ .text          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xac /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reent.o)
+ .comment       0x00000000       0x3a /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-freer.o)
+ .comment       0x00000000       0x3a /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .comment       0x00000000       0x3a /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .comment       0x00000000       0x3a /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .comment       0x00000000       0x3a /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .comment       0x00000000       0x3a /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+CCMRAM           0x10000000         0x00010000         xrw
+FLASH            0x08000000         0x00100000         xr
+FLASHB1          0x00000000         0x00000000         xr
+EXTMEMB0         0x00000000         0x00000000         xr
+EXTMEMB1         0x00000000         0x00000000         xr
+EXTMEMB2         0x00000000         0x00000000         xr
+EXTMEMB3         0x00000000         0x00000000         xr
+MEMORY_ARRAY     0x20002000         0x00000020         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/_initialize_hardware.o
+LOAD ./src/_write.o
+LOAD ./src/main.o
+LOAD ./src/stm32f4xx_hal_msp.o
+LOAD /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libstdc++_nano.a
+LOAD /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libm.a
+START GROUP
+LOAD /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a
+LOAD /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /home/ducle/.local/xPacks/@xpack-dev-tools/xpack-arm-none-eabi-gcc-12.3.1-1.2/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a
+END GROUP
+                0x20020000                        __stack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20020000                        _estack = __stack
+                0x00000400                        __Main_Stack_Size = 0x400
+                [!provide]                        PROVIDE (_Main_Stack_Size = __Main_Stack_Size)
+                0x2001fc00                        __Main_Stack_Limit = (__stack - __Main_Stack_Size)
+                [!provide]                        PROVIDE (_Main_Stack_Limit = __Main_Stack_Limit)
+                0x00000100                        _Minimum_Stack_Size = 0x100
+                [!provide]                        PROVIDE (_Heap_Begin = _end_noinit)
+                [!provide]                        PROVIDE (_Heap_Limit = (__stack - __Main_Stack_Size))
+
+.isr_vector     0x08000000        0x0
+ FILL mask 0xff
+                0x08000000                        __vectors_start = ABSOLUTE (.)
+                0x08000000                        __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ *(.cfmconfig)
+ *(.after_vectors .after_vectors.*)
+
+.inits          0x08000000       0x28
+                0x08000000                        __data_regions_array_start = .
+                0x08000000        0x4 LONG 0x8000028 LOADADDR (.data)
+                0x08000004        0x4 LONG 0x20000000 ADDR (.data)
+                0x08000008        0x4 LONG 0x20000000 (ADDR (.data) + SIZEOF (.data))
+                0x0800000c        0x4 LONG 0x8000028 LOADADDR (.data_CCMRAM)
+                0x08000010        0x4 LONG 0x10000000 ADDR (.data_CCMRAM)
+                0x08000014        0x4 LONG 0x10000000 (ADDR (.data_CCMRAM) + SIZEOF (.data_CCMRAM))
+                0x08000018                        __data_regions_array_end = .
+                0x08000018                        __bss_regions_array_start = .
+                0x08000018        0x4 LONG 0x20000000 ADDR (.bss)
+                0x0800001c        0x4 LONG 0x20000000 (ADDR (.bss) + SIZEOF (.bss))
+                0x08000020        0x4 LONG 0x10000000 ADDR (.bss_CCMRAM)
+                0x08000024        0x4 LONG 0x10000000 (ADDR (.bss_CCMRAM) + SIZEOF (.bss_CCMRAM))
+                0x08000028                        __bss_regions_array_end = .
+ *(.init)
+ *(.fini)
+                0x08000028                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array_sysinit .preinit_array_sysinit.*)
+ *(.preinit_array_platform .preinit_array_platform.*)
+ *(.preinit_array .preinit_array.*)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                0x08000028                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = .)
+                0x08000028                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.flashtext
+ *(.flashtext .flashtext.*)
+
+.text           0x08000028        0x0
+ *(.text .text.*)
+ *(.rodata .rodata.* .constdata .constdata.*)
+ *(vtable)
+ *(.eh_frame*)
+ *(.glue_7)
+ .glue_7        0x08000028        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000028        0x0 linker stubs
+
+.vfp11_veneer   0x08000028        0x0
+ .vfp11_veneer  0x08000028        0x0 linker stubs
+
+.v4_bx          0x08000028        0x0
+ .v4_bx         0x08000028        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08000028                        . = ALIGN (0x4)
+                0x08000028                        __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x08000028                        __exidx_end = .
+                0x08000028                        . = ALIGN (0x4)
+                0x08000028                        _etext = .
+                0x08000028                        __etext = .
+
+.data_CCMRAM    0x10000000        0x0 load address 0x08000028
+ FILL mask 0xff
+ *(.data.CCMRAM .data.CCMRAM.*)
+                0x10000000                        . = ALIGN (0x4)
+                0x08000028                        _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x0 load address 0x08000028
+ FILL mask 0xff
+                0x20000000                        _sdata = .
+                0x20000000                        __data_start__ = .
+ *(.data_begin .data_begin.*)
+ *(.data .data.*)
+ *(.data_end .data_end.*)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _edata = .
+                0x20000000                        __data_end__ = .
+
+.bss_CCMRAM     0x10000000        0x0
+ *(.bss.CCMRAM .bss.CCMRAM.*)
+
+.bss            0x20000000        0x0
+                0x20000000                        __bss_start__ = .
+                0x20000000                        _sbss = .
+ *(.bss_begin .bss_begin.*)
+ *(.bss .bss.*)
+ *(COMMON)
+ *(.bss_end .bss_end.*)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        __bss_end__ = .
+                0x20000000                        _ebss = .
+
+.noinit_CCMRAM
+ *(.noinit.CCMRAM .noinit.CCMRAM.*)
+
+.noinit         0x20000000        0x0
+                0x20000000                        _noinit = .
+ *(.noinit .noinit.*)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _end_noinit = .
+                [!provide]                        PROVIDE (end = _end_noinit)
+                [!provide]                        PROVIDE (_end = _end_noinit)
+                [!provide]                        PROVIDE (__end = _end_noinit)
+                [!provide]                        PROVIDE (__end__ = _end_noinit)
+
+._check_stack   0x20000000      0x100
+                0x20000100                        . = (. + _Minimum_Stack_Size)
+ *fill*         0x20000000      0x100 
+
+.b1text
+ *(.b1text)
+ *(.b1rodata)
+ *(.b1rodata.*)
+
+.eb0text
+ *(.eb0text)
+ *(.eb0rodata)
+ *(.eb0rodata.*)
+
+.eb1text
+ *(.eb1text)
+ *(.eb1rodata)
+ *(.eb1rodata.*)
+
+.eb2text
+ *(.eb2text)
+ *(.eb2rodata)
+ *(.eb2rodata.*)
+
+.eb3text
+ *(.eb3text)
+ *(.eb3rodata)
+ *(.eb3rodata.*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(assignT1.elf elf32-littlearm)
+LOAD linker stubs
